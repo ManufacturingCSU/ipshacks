@@ -10,3 +10,15 @@ It's impossible to cover every aspect of supply chain in a single hack or a sing
 
 - Check your participation confirmation email for credentials and postman collection files.
 - Please use your internal subscription to provision the required resources.
+
+## Challenge 1 - Supply Chain Visibility
+
+- *TODO*
+
+## Challenge 2 - Supply Chain Risk Management (Walkthrough)
+
+- *TODO*
+
+## Challenge 3 - Supply Chain Analytics (Machine Learning)
+
+- *TODO*
